@@ -11,7 +11,7 @@ Find Stable Connected Components using Kosarajus Algorithm
   
    Number of Vertices\
    Number of Edges\
-   Edge 1\ 
+   Edge 1 \
    Edge 2\
    Edge n
 
